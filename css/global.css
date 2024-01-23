@@ -1,0 +1,31 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+.content{
+      background-color: #D5e1ef;
+      display: flex;
+      justify-content: center;
+      height: 100vh;
+}
+.content__box{
+      background-color: white;
+      height: 80vh;
+      width: 30%;
+      padding: 40px;
+      margin: 50px;
+      border-radius: 25px;
+
+
+}
+.content__box img{
+      border-radius: 5px;
+}
+.attribution { 
+      font-size: 11px;
+      text-align: center;
+ }
+.attribution a { 
+      color: hsl(228, 45%, 44%);
+ }
